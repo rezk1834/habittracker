@@ -84,6 +84,8 @@ lib/
 - [Flutter](https://flutter.dev)
 - [Hive](https://pub.dev/packages/hive)
 - [flutter_heatmap_calendar](https://pub.dev/packages/flutter_heatmap_calendar)
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+- 
 
 ## Contributing
 
