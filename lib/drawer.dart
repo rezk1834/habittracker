@@ -91,7 +91,7 @@ class TheDrawer extends StatelessWidget {
                   ),
                   onTap: () =>
                       _launchURL(
-                          'https://github.com/rezk1834/base_converter/blob/master/README.md'),
+                          'https://github.com/rezk1834/habittracker/blob/main/README.md'),
                 ),
               ),
             )
